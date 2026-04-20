@@ -5,7 +5,7 @@
 
 # TexDownloader CXFR v1.0.0
 
-An in-game texture pack browser and downloader extension for **CarX Drift Racing Online** (Kino/KSL). Browse, preview, and install community texture packs directly from the game without leaving the menu — fully integrated with [TexLoader CXFR](https://github.com/Silv3r25/TexLoader-CXFR).
+An in-game texture pack browser and downloader extension for **CarX Drift Racing Online** (Kino/KSL). Browse, preview, and install community texture packs directly from the game without leaving the menu — fully integrated with [TexLoader CXFR](https://github.com/Silv3r25/TexLoader-CXFR)
 
 ## Features
 

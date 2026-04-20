@@ -1,7 +1,5 @@
 [![TexLoader](https://img.shields.io/badge/REQUIRES-TexLoader%20CXFR-blue?style=for-the-badge)](https://github.com/Silv3r25/TexLoader-CXFR)
 [![Releases](https://img.shields.io/github/v/release/Silv3r25/TexDownloader?include_prereleases&label=DOWNLOAD&style=for-the-badge)](https://github.com/Silv3r25/TexDownloader/releases)
-![Downloads](https://img.shields.io/github/downloads/Silv3r25/TexDownloader/total?label=TOTAL%20DOWNLOADS&style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=Silv3r25&label=VIEWS&style=for-the-badge&color=brightgreen)
 
 # TexDownloader CXFR v1.0.0
 
